@@ -12,3 +12,4 @@ break ;
 case 'Thursday' :
 case 'Friday' :
 console.log("Wake up at 8.00 am");
+}

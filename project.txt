@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi
 My name is Nipul.
+=======
+hi
+>>>>>>> 3bafa2264cbd8a2f4efd084c4ffdb88444df8db9
